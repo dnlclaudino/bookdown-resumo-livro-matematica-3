@@ -1,5 +1,5 @@
 --- 
-title: "Bookdown de NOME-PRODUTO"
+title: "Bookdown Resumos de Matemática 3"
 author: "Daniel Claudino"
 date: "`r Sys.Date()`"
 output: pdf_document
@@ -9,7 +9,7 @@ bibliography:
 - packages.bib
 # cover-image: "imagens/capa-livro.png"
 description: |
-  Neste material, estão contidos um dos produtos(materiais) contidos abaixo.
+  Neste material, estão contidos resumos de matemática 3.
 link-citations: yes
 lang: "pt-BR"
 site: bookdown::bookdown_site
@@ -18,7 +18,7 @@ always_allow_html: true
 
 # Apresentação
 
-<center><h2>Bookdown dos(as) NOME-DO-PRODUTO</h2></center>
+<center><h2>Bookdown Resumos de Matemática 3</h2></center>
 
 ```{r echo=FALSE, fig.show="hold", out.width="50%", fig.align = "center", fig.cap="Autor"}
 knitr::include_graphics("imagens/FOTO-PERFIL-DANIEL-CLAUDINO-2020.png")

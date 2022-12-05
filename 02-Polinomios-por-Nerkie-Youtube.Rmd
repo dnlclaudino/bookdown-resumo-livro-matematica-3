@@ -1,11 +1,10 @@
-# NOME-DO-PRODUTO da Disciplina NOME-DA-DISCIPLINA
+# Polinômios ( Nerkie, Canal do Youtube )
 
+Este caítulo conterá o resumo da aula de polinômios do canal do Youtube Nerkie. Disponível em (https://www.youtube.com/watch?v=w7gn-3gf01A&t=556s).
 
-Neste capítulo estarão contidos os NOME-DO-PRODUTO da disciplina NOME-DA-DISCIPLINA.
-
-|Data|Tópicos Abordados|
+|Seção|Descrição|
 |:--|:--|
-|dd/mm/aaaa|- Tópico 1<br>- Tópico 2<br>- Tópico 3|
+|Seção|Descrição|
 
 ## Seção 01
 
